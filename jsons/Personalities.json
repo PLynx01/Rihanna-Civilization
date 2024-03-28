@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Rihanna",
+        "preferredVictoryType": "Cultural",
+
+        "production": 4,
+        "food": 6,
+        "gold": 7,
+        "science": 5,
+        "culture": 8,
+        "happiness": 9,
+        "faith": 3,
+
+        "military": 4,
+
+        "priorities": {
+            "Tradition": 20,
+            "Liberty": 30,
+            "Honor": 10,
+            "Piety": 10,
+            "Patronage": 30,
+            "Commerce": 30,
+            "Rationalism": 20,
+            "Freedom": 50,
+            "Autocracy": 10,
+            "Order": 10
+        },
+        
+        "warMongering": 3
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Rihannian Republic",
+        "leaderName": "Rihanna",
+        "adjective": [
+            "Rihannian"
+        ],
+        "startBias": [
+            "Coast",
+            "Atoll",
+            "Avoid [Tundra]",
+            "Avoid [Ice]"
+        ],
+        "favoredReligion": "Christianity",
+        "personality": "Rihanna",
+
+        "startIntroPart1": "Magnificient Rihanna, you started out as a poor girl on a small island, then you ascended to the top of the world thanks to your exceptional talent and beauty. You've created a plenty of number-one hit songs loved by the people around the world. They are so fond of you, that you become a glorious leader of the newly-created Rihannian Republic",
+        "startIntroPart2": "Can you unite the world with your charm and music and make the human civilization shine bright like a diamond forever?",
+
+        "declaringWar": "Even though I am not a warmonger, I want to defeat you, racist bigot!",
+        "attacked": "Are you Chris Brown 2.0? This time I'll defend myself and my people!",
+        "defeated": "You may have defeated me, but I will always live my life, even when I lose it all",
+        
+        "introduction": "Hi, Robyn is who I am. Rihanna — that's an idea of who I am. Let's become friends and shine bright like a diamond together",
+        "neutralHello": "Hi, what are we going to do today?",
+        "hateHello": "What do you want from me?!",
+        "tradeRequest": "Sell me candy, like it's summer when it's melting in my hands.",
+
+        "innerColor": [255, 199, 38],
+        "outerColor": [0, 38, 127],
+
+        "uniqueName": "Ultra Ri(c)h",
+        "uniques": [
+            "[+1 Gold] from all [{Ancient era} {Culture}] buildings <starting from the [Renaissance era]>",
+            "[+1 Gold] from all [{Classical era} {Culture}] buildings <starting from the [Renaissance era]>",
+            "[+1 Gold] from all [{Medieval era} {Culture}] buildings <starting from the [Industrial era]>",
+            "[+1 Gold] from all [{Renaissance era} {Culture}] buildings <starting from the [Industrial era]>",
+            "[+2 Gold] from all [{Industrial era} {Culture}] buildings",
+            "[+2 Gold] from all [{Modern era} {Culture}] buildings",
+            "[+2 Gold] from all [{Atomic era} {Culture}] buildings",
+            "[+3 Gold] from all [{Information era} {Culture}] buildings",
+            "[+1 Gold] from all [{National Wonder} {Culture}] buildings <starting from the [Industrial era]>",
+            "[+1 Gold] from all [{World Wonder} {Culture}] buildings <starting from the [Modern era]>"
+        ],
+        "cities": ["Bridgetown", "Umbrella City", "Disturbia", "Windmill City", "Pink Meadows", "Diamondsville", "New Bridgetown",
+        "Rihburg", "Rihannograd", "Rihville", "RiRi Paradise"],
+        "spyNames": ["Rorrey", "Rajad", "Robyn", "Clara", "Lionel", "Monica", "Drake", "Calvin"]
+
+
+
+    }
+]
