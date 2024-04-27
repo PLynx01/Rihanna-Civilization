@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Rihanna Fanclub",
+        "cost": 360,
+        "happiness": 4,
+        "culture": 3,
+        "percentStatBonus": {
+            "culture": 15
+        },
+        "requiredTech": "Telecommunications",
+        "uniqueTo": "Rihannian Republic",
+        "cityStrength": 2,
+        "cityHealth": 15,
+        "maintenance": 2,
+        "uniques": [
+            "[+50]% Production when constructing [Rihanna Fan] units [in this city]"
+        ],
+        "greatPersonPoints": {
+            "Great Artist": 1
+        },
+        "specialistSlots": {
+            "Artist": 1
+        }
+    }
+]

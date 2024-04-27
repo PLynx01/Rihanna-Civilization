@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Rihanna Fan",
+        "unitType": "Civilian",
+        "cost": 160,
+        "movement": 2,
+        "strength": 8,
+        "requiredTech": "Telecommunications",
+        "uniqueTo": "Rihannian Republic",
+        "uniques": [
+            "[+150]% Strength <when defending>",
+            "[+10]% Strength bonus for [Military] units within [2] tiles <when defending>",
+            "[+5]% Strength bonus for [Military] units within [2] tiles <when attacking>",
+            "Gain [50]-[100] [Culture] <after which this unit is consumed>"
+        ]
+    }
+]
