@@ -9,8 +9,6 @@
         },
         "requiredTech": "Telecommunications",
         "uniqueTo": "Rihannian Republic",
-        "cityStrength": 2,
-        "cityHealth": 15,
         "maintenance": 2,
         "uniques": [
             "[+50]% Production when constructing [Rihanna Fan] units [in this city]"
