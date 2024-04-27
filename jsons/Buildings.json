@@ -18,6 +18,11 @@
         },
         "specialistSlots": {
             "Artist": 1
-        }
+        },
+        "civilopediaText": [
+            {
+                "text": "A place dedicated for Rihanna fans, allowing them to meet, discuss, create fan art, perform her music and of course, to have fun doing all these things."
+            }
+        ]
     }
 ]

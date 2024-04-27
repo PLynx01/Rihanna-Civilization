@@ -12,6 +12,11 @@
             "[+10]% Strength bonus for [Military] units within [2] tiles <when defending>",
             "[+5]% Strength bonus for [Military] units within [2] tiles <when attacking>",
             "Gain [50]-[100] [Culture] <after which this unit is consumed>"
+        ],
+        "civilopediaText": [
+            {
+                "text": "A lightly armed support unit, whose purpose is to motivate and raise the morale of the army, mostly for defence. Aside of that, it can also contribute to the development of the culture."
+            }
         ]
     }
 ]
