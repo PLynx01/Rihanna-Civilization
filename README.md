@@ -9,5 +9,3 @@ Features:
 - Custom AI personality, based on her ideology and values.
 - An Unique Buiding: Rihanna Fanclub
 - An Unique Unit: Rihanna Fan
-
-For now, there are no unique building nor unit. You can suggest these, if you have an idea!
