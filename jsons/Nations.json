@@ -7,7 +7,6 @@
         ],
         "startBias": [
             "Coast",
-            "Atoll",
             "Avoid [Tundra]",
             "Avoid [Ice]"
         ],
@@ -36,8 +35,6 @@
         "cities": ["Bridgetown", "Umbrella City", "Disturbia", "Windmill City", "Pink Meadows", "Diamondsville", "New Bridgetown",
         "Rihburg", "Rihannograd", "Rihville", "RiRi Paradise"],
         "spyNames": ["Rorrey", "Rajad", "Robyn", "Clara", "Lionel", "Monica", "Drake", "Calvin"]
-
-
 
     }
 ]
