@@ -31,16 +31,7 @@
 
         "uniqueName": "Ultra Ri(c)h",
         "uniques": [
-            "[+1 Gold] from all [{Ancient era} {Culture}] buildings <starting from the [Renaissance era]>",
-            "[+1 Gold] from all [{Classical era} {Culture}] buildings <starting from the [Renaissance era]>",
-            "[+1 Gold] from all [{Medieval era} {Culture}] buildings <starting from the [Industrial era]>",
-            "[+1 Gold] from all [{Renaissance era} {Culture}] buildings <starting from the [Industrial era]>",
-            "[+2 Gold] from all [{Industrial era} {Culture}] buildings",
-            "[+2 Gold] from all [{Modern era} {Culture}] buildings",
-            "[+2 Gold] from all [{Atomic era} {Culture}] buildings",
-            "[+3 Gold] from all [{Information era} {Culture}] buildings",
-            "[+1 Gold] from all [{National Wonder} {Culture}] buildings <starting from the [Industrial era]>",
-            "[+1 Gold] from all [{World Wonder} {Culture}] buildings <starting from the [Modern era]>"
+            "[+1 Gold] from all [Culture] buildings"
         ],
         "cities": ["Bridgetown", "Umbrella City", "Disturbia", "Windmill City", "Pink Meadows", "Diamondsville", "New Bridgetown",
         "Rihburg", "Rihannograd", "Rihville", "RiRi Paradise"],
