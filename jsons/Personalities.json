@@ -12,20 +12,24 @@
         "faith": 3,
 
         "military": 4,
+        "aggressive": 3,
+        "declareWar": 2,
+        "commerce": 7,
+        "diplomacy": 7,
+        "loyal": 3,
+        "expansion": 5,
 
         "priorities": {
-            "Tradition": 20,
-            "Liberty": 30,
-            "Honor": 10,
-            "Piety": 10,
-            "Patronage": 30,
-            "Commerce": 30,
-            "Rationalism": 20,
-            "Freedom": 50,
-            "Autocracy": 10,
-            "Order": 10
-        },
-        
-        "warMongering": 3
+            "Tradition": 4,
+            "Liberty": 7,
+            "Honor": 3,
+            "Piety": 3,
+            "Patronage": 6,
+            "Commerce": 6,
+            "Rationalism": 5,
+            "Freedom": 8,
+            "Autocracy": 2,
+            "Order": 3
+        }
     }
 ]
